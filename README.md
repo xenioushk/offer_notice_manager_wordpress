@@ -2,7 +2,7 @@
 
 This is a simple guidelines and script that reads an external JSON file and displays an offer to the WordPress admin dashboard.
 
-# Create a JSON file to the remote server.
+## Create a JSON file
 
 Our initial plan is to create an offer notification message to inform admin users about a discount. This message will display only the admin area. So, create a JSON file, and copy this JSON code.
 
